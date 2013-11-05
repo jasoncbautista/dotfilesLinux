@@ -12,4 +12,3 @@ colorscheme delek
 set number
 
 
-
